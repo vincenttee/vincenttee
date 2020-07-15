@@ -1,4 +1,4 @@
-### Hi there 👋
+ ![image](https://github.com/vincenttee/vincenttee/blob/master/dino.gif)
 
 <!--
 **vincenttee/vincenttee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
